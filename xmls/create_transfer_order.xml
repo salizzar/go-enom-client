@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <success>True</success>
+  <transferorder>
+    <transferorderid>175688507</transferorderid>
+    <orderdate>6/21/2014 8:50:02 PM</orderdate>
+    <ordertypeid>1</ordertypeid>
+    <ordertypedesc>Auto Verification</ordertypedesc>
+    <statusid>4</statusid>
+    <statusdesc>Processing</statusdesc>
+    <authamount>15.6</authamount>
+    <version>1</version>
+    <transferorderdetail>
+      <transferorderdetailid>77515168</transferorderdetailid>
+      <sld>locatransfertest001</sld>
+      <tld>net</tld>
+      <statusid>9</statusid>
+      <statusdesc>Awaiting auto verification of transfer request</statusdesc>
+      <price>15.6</price>
+      <usecontacts>0</usecontacts>
+      <premiumdomain/>
+      <customersuppliedprice/>
+    </transferorderdetail>
+    <transferorderdetailcount>1</transferorderdetailcount>
+  </transferorder>
+  <success>True</success>
+  <Command>TP_CREATEORDER</Command>
+  <APIType>API</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>SJL0VWRESELL_T1</Server>
+  <Site>eNom                </Site>
+  <IsLockable>True</IsLockable>
+  <IsRealTimeTLD>True</IsRealTimeTLD>
+  <TimeDifference>+08.00</TimeDifference>
+  <ExecTime>1.016</ExecTime>
+  <Done>true</Done>
+  <RequestDateTime>6/21/2014 8:50:01 PM</RequestDateTime>
+  <debug><![CDATA[]]></debug>
+</interface-response>

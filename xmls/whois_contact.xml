@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <GetWhoisContacts>
+    <domainname sld="migracao-enom-01" tld="com">migracao-enom-01.com</domainname>
+    <AboutusLink>True</AboutusLink>
+    <contacts>
+      <contact ContactType="Registrant">
+        <Organization>LOCAVEBE</Organization>
+        <FName>MARCELO</FName>
+        <LName>CORREIA PINHEIRO</LName>
+        <Address1>NEWRUA ITAPAIUNA, 2434</Address1>
+        <Address2>NEW</Address2>
+        <City>SAO PAULO</City>
+        <StateProvince>NEWSP</StateProvince>
+        <PostalCode>05707001</PostalCode>
+        <Country>BR</Country>
+        <Phone>+55.99199999999</Phone>
+        <PhoneExt/>
+        <Fax/>
+        <EmailAddress>MARCELO.PINHEIRO@LOCAWEB.COM.BR</EmailAddress>
+      </contact>
+      <contact ContactType="Administrative">
+        <Organization>LOCAVEBE</Organization>
+        <FName>MARCELO</FName>
+        <LName>CORREIA PINHEIRO</LName>
+        <Address1>RUA ITAPAIUNA, 2434</Address1>
+        <Address2>NEW</Address2>
+        <City>SAO PAULO</City>
+        <StateProvince>SP</StateProvince>
+        <PostalCode>05707001</PostalCode>
+        <Country>BR</Country>
+        <Phone>+55.99199999999</Phone>
+        <PhoneExt/>
+        <Fax/>
+        <EmailAddress>MARCELO.PINHEIRO@LOCAWEB.COM.BR</EmailAddress>
+      </contact>
+      <contact ContactType="Technical">
+        <Organization>LOCAVEBE</Organization>
+        <FName>MARCELO</FName>
+        <LName>CORREIA PINHEIRO</LName>
+        <Address1>RUA ITAPAIUNA, 2434</Address1>
+        <Address2>NEW</Address2>
+        <City>SAO PAULO</City>
+        <StateProvince>SP</StateProvince>
+        <PostalCode>05707001</PostalCode>
+        <Country>BR</Country>
+        <Phone>+55.99199999999</Phone>
+        <PhoneExt/>
+        <Fax/>
+        <EmailAddress>MARCELO.PINHEIRO@LOCAWEB.COM.BR</EmailAddress>
+      </contact>
+    </contacts>
+    <Reseller/>
+    <businesslisting>
+      <listing>
+        <companydescription><![CDATA[Get Noticed on the Internet!  Increase visibility for this domain name by listing it at www.whoisbusinesslistings.com]]></companydescription>
+        <domainname><![CDATA[migracao-enom-01.com]]></domainname>
+      </listing>
+    </businesslisting>
+    <rrp-info>
+      <nameserver>
+        <nameserver>NS1.SYSTEMINTEGRATION.LOCAWEB.COM</nameserver>
+        <nameserver>NS2.SYSTEMINTEGRATION.LOCAWEB.COM</nameserver>
+      </nameserver>
+      <updated-date>2014-05-05 23:00:48.000</updated-date>
+      <created-date>2014-01-09 23:03:47.000</created-date>
+      <registration-expiration-date>2015-01-09 23:03:47.000</registration-expiration-date>
+      <domain>migracao-enom-01.com</domain>
+      <server>SJL21WLGDEV06</server>
+      <status>
+        <status>registrar-lock</status>
+      </status>
+    </rrp-info>
+    <StatusValues>True</StatusValues>
+  </GetWhoisContacts>
+  <DomainExpired>False</DomainExpired>
+  <RRPCode>200</RRPCode>
+  <RRPText>Command completed successfully</RRPText>
+  <Source>ENOM</Source>
+  <Command>GETWHOISCONTACT</Command>
+  <APIType>API</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>SJL0VWRESELL_T</Server>
+  <Site>eNom</Site>
+  <IsLockable>True</IsLockable>
+  <IsRealTimeTLD>True</IsRealTimeTLD>
+  <TimeDifference>+08.00</TimeDifference>
+  <ExecTime>0.438</ExecTime>
+  <Done>true</Done>
+  <RequestDateTime>6/19/2014 11:13:43 AM</RequestDateTime>
+  <debug><![CDATA[]]></debug>
+</interface-response>

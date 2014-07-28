@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <GetContacts>
+    <domainname sld="migracao-enom-01" tld="com" domainnameid="345293243"><![CDATA[migracao-enom-01.com]]></domainname>
+    <Registrant>
+      <RegistrantPartyID><![CDATA[{8d116534-0bd2-e311-acb1-0050568631ab}]]></RegistrantPartyID>
+      <RegistrantOrganizationName><![CDATA[Locavebe]]></RegistrantOrganizationName>
+      <RegistrantJobTitle/>
+      <RegistrantFirstName><![CDATA[Marcelo]]></RegistrantFirstName>
+      <RegistrantLastName><![CDATA[Correia Pinheiro]]></RegistrantLastName>
+      <RegistrantAddress1><![CDATA[newRua Itapaiuna, 2434]]></RegistrantAddress1>
+      <RegistrantAddress2><![CDATA[new]]></RegistrantAddress2>
+      <RegistrantCity><![CDATA[Sao Paulo]]></RegistrantCity>
+      <RegistrantCountry><![CDATA[BR]]></RegistrantCountry>
+      <RegistrantStateProvince><![CDATA[newSP]]></RegistrantStateProvince>
+      <RegistrantStateProvinceChoice><![CDATA[S]]></RegistrantStateProvinceChoice>
+      <RegistrantPostalCode><![CDATA[05707001]]></RegistrantPostalCode>
+      <RegistrantEmailAddress><![CDATA[marcelo.pinheiro@locaweb.com.br]]></RegistrantEmailAddress>
+      <RegistrantPhone><![CDATA[+55.99199999999]]></RegistrantPhone>
+      <RegistrantPhoneExt/>
+      <RegistrantFax/>
+    </Registrant>
+    <AuxBilling>
+      <AuxBillingPartyID><![CDATA[{8167a5d2-70b3-44a8-b05e-b10de9a9ea9b}]]></AuxBillingPartyID>
+      <AuxBillingOrganizationName><![CDATA[LocaWeb Ltda]]></AuxBillingOrganizationName>
+      <AuxBillingJobTitle><![CDATA[CFO]]></AuxBillingJobTitle>
+      <AuxBillingFirstName><![CDATA[Locaweb]]></AuxBillingFirstName>
+      <AuxBillingLastName><![CDATA[Ltda]]></AuxBillingLastName>
+      <AuxBillingAddress1><![CDATA[Av Juscelino Kubitschek 1830, 10 andar Torre1]]></AuxBillingAddress1>
+      <AuxBillingAddress2/>
+      <AuxBillingCity><![CDATA[Sao Paulo]]></AuxBillingCity>
+      <AuxBillingCountry><![CDATA[BR]]></AuxBillingCountry>
+      <AuxBillingStateProvince><![CDATA[BR]]></AuxBillingStateProvince>
+      <AuxBillingStateProvinceChoice><![CDATA[P]]></AuxBillingStateProvinceChoice>
+      <AuxBillingPostalCode><![CDATA[04543-900]]></AuxBillingPostalCode>
+      <AuxBillingEmailAddress><![CDATA[regcom@locaweb.com.br]]></AuxBillingEmailAddress>
+      <AuxBillingPhone><![CDATA[+55.1121613500]]></AuxBillingPhone>
+      <AuxBillingPhoneExt/>
+      <AuxBillingFax><![CDATA[+55.1135440445]]></AuxBillingFax>
+      <UseBelowAuxInfo><![CDATA[True]]></UseBelowAuxInfo>
+      <auxID><![CDATA[{8167a5d2-70b3-44a8-b05e-b10de9a9ea9b}]]></auxID>
+      <regID><![CDATA[{8d116534-0bd2-e311-acb1-0050568631ab}]]></regID>
+    </AuxBilling>
+    <Tech>
+      <TechPartyID><![CDATA[{bf8c0217-0bd2-e311-acb1-0050568631ab}]]></TechPartyID>
+      <TechOrganizationName><![CDATA[Locavebe]]></TechOrganizationName>
+      <TechJobTitle/>
+      <TechFirstName><![CDATA[Marcelo]]></TechFirstName>
+      <TechLastName><![CDATA[Correia Pinheiro]]></TechLastName>
+      <TechAddress1><![CDATA[Rua Itapaiuna, 2434]]></TechAddress1>
+      <TechAddress2><![CDATA[new]]></TechAddress2>
+      <TechCity><![CDATA[Sao Paulo]]></TechCity>
+      <TechCountry><![CDATA[BR]]></TechCountry>
+      <TechStateProvince><![CDATA[SP]]></TechStateProvince>
+      <TechStateProvinceChoice><![CDATA[S]]></TechStateProvinceChoice>
+      <TechPostalCode><![CDATA[05707001]]></TechPostalCode>
+      <TechEmailAddress><![CDATA[marcelo.pinheiro@locaweb.com.br]]></TechEmailAddress>
+      <TechPhone><![CDATA[+55.99199999999]]></TechPhone>
+      <TechPhoneExt/>
+      <TechFax/>
+    </Tech>
+    <Admin>
+      <AdminPartyID><![CDATA[{bf8c0217-0bd2-e311-acb1-0050568631ab}]]></AdminPartyID>
+      <AdminOrganizationName><![CDATA[Locavebe]]></AdminOrganizationName>
+      <AdminJobTitle/>
+      <AdminFirstName><![CDATA[Marcelo]]></AdminFirstName>
+      <AdminLastName><![CDATA[Correia Pinheiro]]></AdminLastName>
+      <AdminAddress1><![CDATA[Rua Itapaiuna, 2434]]></AdminAddress1>
+      <AdminAddress2><![CDATA[new]]></AdminAddress2>
+      <AdminCity><![CDATA[Sao Paulo]]></AdminCity>
+      <AdminCountry><![CDATA[BR]]></AdminCountry>
+      <AdminStateProvince><![CDATA[SP]]></AdminStateProvince>
+      <AdminStateProvinceChoice><![CDATA[S]]></AdminStateProvinceChoice>
+      <AdminPostalCode><![CDATA[05707001]]></AdminPostalCode>
+      <AdminEmailAddress><![CDATA[marcelo.pinheiro@locaweb.com.br]]></AdminEmailAddress>
+      <AdminPhone><![CDATA[+55.99199999999]]></AdminPhone>
+      <AdminPhoneExt/>
+      <AdminFax/>
+    </Admin>
+    <Billing>
+      <BillingPartyID><![CDATA[{8167a5d2-70b3-44a8-b05e-b10de9a9ea9b}]]></BillingPartyID>
+      <BillingOrganizationName><![CDATA[LocaWeb Ltda]]></BillingOrganizationName>
+      <BillingJobTitle><![CDATA[CFO]]></BillingJobTitle>
+      <BillingFirstName><![CDATA[Locaweb]]></BillingFirstName>
+      <BillingLastName><![CDATA[Ltda]]></BillingLastName>
+      <BillingAddress1><![CDATA[Av Juscelino Kubitschek 1830, 10 andar Torre1]]></BillingAddress1>
+      <BillingAddress2/>
+      <BillingCity><![CDATA[Sao Paulo]]></BillingCity>
+      <BillingCountry><![CDATA[BR]]></BillingCountry>
+      <BillingStateProvince><![CDATA[BR]]></BillingStateProvince>
+      <BillingStateProvinceChoice><![CDATA[P]]></BillingStateProvinceChoice>
+      <BillingPostalCode><![CDATA[04543-900]]></BillingPostalCode>
+      <BillingEmailAddress><![CDATA[regcom@locaweb.com.br]]></BillingEmailAddress>
+      <BillingPhone><![CDATA[+55.1121613500]]></BillingPhone>
+      <BillingPhoneExt/>
+      <BillingFax><![CDATA[+55.1135440445]]></BillingFax>
+      <BillingFullCountry><![CDATA[Brazil]]></BillingFullCountry>
+    </Billing>
+    <PendingVerification><![CDATA[False]]></PendingVerification>
+    <Nexus category=""/>
+    <Purpose/>
+    <CurrentAttributes>
+		</CurrentAttributes>
+    <WPPSAllowed><![CDATA[1]]></WPPSAllowed>
+    <WPPSExists><![CDATA[0]]></WPPSExists>
+    <WPPSEnabled><![CDATA[0]]></WPPSEnabled>
+    <WPPSExpDate/>
+    <WPPSAutoRenew/>
+    <WPPSContactData>
+      <ContactType><![CDATA[WPPS]]></ContactType>
+      <OrganizationName><![CDATA[Locavebe]]></OrganizationName>
+      <JobTitle/>
+      <FName><![CDATA[Marcelo]]></FName>
+      <LName><![CDATA[Correia Pinheiro]]></LName>
+      <Address1><![CDATA[Rua Itapaiuna, 2434]]></Address1>
+      <Address2><![CDATA[new]]></Address2>
+      <City><![CDATA[Sao Paulo]]></City>
+      <StateProvince><![CDATA[SP]]></StateProvince>
+      <StateProvinceChoice><![CDATA[S]]></StateProvinceChoice>
+      <PostalCode><![CDATA[05707001]]></PostalCode>
+      <Country><![CDATA[BR]]></Country>
+      <Phone><![CDATA[+55.99199999999]]></Phone>
+      <PhoneExt/>
+      <Fax/>
+      <EmailAddress><![CDATA[marcelo.pinheiro@locaweb.com.br]]></EmailAddress>
+      <DateTimeChanged/>
+    </WPPSContactData>
+    <escrowliftdate/>
+    <escrowhold/>
+    <Attributes>
+		</Attributes>
+    <IsContactShared><![CDATA[False]]></IsContactShared>
+  </GetContacts>
+  <ContactRestrictedTLD>False</ContactRestrictedTLD>
+  <Command>GETCONTACTS</Command>
+  <APIType>API.NET</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>sjl0vwresell_t</Server>
+  <Site>eNom</Site>
+  <IsLockable/>
+  <IsRealTimeTLD/>
+  <TimeDifference>+0.00</TimeDifference>
+  <ExecTime>0.078</ExecTime>
+  <Done>true</Done>
+  <TrackingKey>43c44395-936f-4f59-a06a-5c1158221485</TrackingKey>
+  <RequestDateTime>6/19/2014 12:29:25 PM</RequestDateTime>
+  <debug/>
+</interface-response>

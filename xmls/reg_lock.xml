@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <reg-lock>REGISTRAR-LOCK</reg-lock>
+  <RRPCode>200</RRPCode>
+  <RRPText>Command completed successfully</RRPText>
+  <Command>SETREGLOCK</Command>
+  <APIType>API.NET</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>sjl0vwresell_t</Server>
+  <Site>eNom</Site>
+  <IsLockable>True</IsLockable>
+  <IsRealTimeTLD>True</IsRealTimeTLD>
+  <TimeDifference>+8.00</TimeDifference>
+  <ExecTime>0.500</ExecTime>
+  <Done>true</Done>
+  <TrackingKey>4dfd24b4-2010-4c73-aa16-6d6c60904f64</TrackingKey>
+  <RequestDateTime>6/19/2014 6:31:44 PM</RequestDateTime>
+  <debug/>
+</interface-response>

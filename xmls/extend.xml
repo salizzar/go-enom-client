@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <Extension>successful</Extension>
+  <DomainName>caso621.org</DomainName>
+  <OrderID>161657352</OrderID>
+  <RRPCode>200</RRPCode>
+  <RRPText>Command completed successfully</RRPText>
+  <DomainInfo>
+    <RegistryExpDate>2015-09-21 20:48:58.000</RegistryExpDate>
+  </DomainInfo>
+  <Command>EXTEND</Command>
+  <APIType>API</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>SJL0VWRESELL_T1</Server>
+  <Site>eNom</Site>
+  <IsLockable>True</IsLockable>
+  <IsRealTimeTLD>True</IsRealTimeTLD>
+  <TimeDifference>+07.00</TimeDifference>
+  <ExecTime>2.047</ExecTime>
+  <Done>true</Done>
+  <RequestDateTime>6/21/2014 9:09:52 PM</RequestDateTime>
+  <debug><![CDATA[]]></debug>
+</interface-response>

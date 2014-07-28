@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <TransferOrderCount>36</TransferOrderCount>
+  <transferorder>
+    <transferorderid>175688105</transferorderid>
+    <orderdate>2014-06-18T09:17:32.960</orderdate>
+    <statusid>4</statusid>
+    <tos>
+      <statusdesc>Processing</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175688042</transferorderid>
+    <orderdate>2014-06-16T16:31:37.220</orderdate>
+    <statusid>4</statusid>
+    <tos>
+      <statusdesc>Processing</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175688036</transferorderid>
+    <orderdate>2014-06-16T15:25:38.487</orderdate>
+    <statusid>4</statusid>
+    <tos>
+      <statusdesc>Processing</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175688033</transferorderid>
+    <orderdate>2014-06-16T14:37:13.700</orderdate>
+    <statusid>4</statusid>
+    <tos>
+      <statusdesc>Processing</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175688030</transferorderid>
+    <orderdate>2014-06-16T12:01:45.820</orderdate>
+    <statusid>4</statusid>
+    <tos>
+      <statusdesc>Processing</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175688027</transferorderid>
+    <orderdate>2014-06-16T10:48:21.567</orderdate>
+    <statusid>4</statusid>
+    <tos>
+      <statusdesc>Processing</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175684577</transferorderid>
+    <orderdate>2014-04-25T16:09:28.670</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175682222</transferorderid>
+    <orderdate>2014-03-14T15:23:47.393</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175681751</transferorderid>
+    <orderdate>2014-03-12T17:25:24.383</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175681748</transferorderid>
+    <orderdate>2014-03-12T17:25:21.307</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175681682</transferorderid>
+    <orderdate>2014-03-11T10:12:29.683</orderdate>
+    <statusid>2</statusid>
+    <tos>
+      <statusdesc>Order canceled</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175681679</transferorderid>
+    <orderdate>2014-03-11T10:07:25.060</orderdate>
+    <statusid>2</statusid>
+    <tos>
+      <statusdesc>Order canceled</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175681676</transferorderid>
+    <orderdate>2014-03-11T10:02:19.310</orderdate>
+    <statusid>2</statusid>
+    <tos>
+      <statusdesc>Order canceled</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175681673</transferorderid>
+    <orderdate>2014-03-11T09:57:14.677</orderdate>
+    <statusid>2</statusid>
+    <tos>
+      <statusdesc>Order canceled</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175681670</transferorderid>
+    <orderdate>2014-03-11T09:52:07.293</orderdate>
+    <statusid>2</statusid>
+    <tos>
+      <statusdesc>Order canceled</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680326</transferorderid>
+    <orderdate>2014-01-24T12:10:54.690</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680323</transferorderid>
+    <orderdate>2014-01-24T12:08:41.747</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680320</transferorderid>
+    <orderdate>2014-01-24T11:31:04.577</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680317</transferorderid>
+    <orderdate>2014-01-24T11:28:49.903</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680314</transferorderid>
+    <orderdate>2014-01-24T11:25:53.970</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680308</transferorderid>
+    <orderdate>2014-01-24T10:21:03.677</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680305</transferorderid>
+    <orderdate>2014-01-24T10:18:25.300</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680266</transferorderid>
+    <orderdate>2014-01-22T13:45:37.667</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680263</transferorderid>
+    <orderdate>2014-01-22T13:45:27.553</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680260</transferorderid>
+    <orderdate>2014-01-22T13:45:26.523</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680221</transferorderid>
+    <orderdate>2014-01-21T12:29:11.820</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680218</transferorderid>
+    <orderdate>2014-01-21T12:10:24.190</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680215</transferorderid>
+    <orderdate>2014-01-21T12:10:23.937</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680212</transferorderid>
+    <orderdate>2014-01-21T11:45:25.607</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680209</transferorderid>
+    <orderdate>2014-01-21T11:44:54.900</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680206</transferorderid>
+    <orderdate>2014-01-21T11:44:25.373</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680203</transferorderid>
+    <orderdate>2014-01-21T11:39:47.220</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680200</transferorderid>
+    <orderdate>2014-01-21T11:34:37.937</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680197</transferorderid>
+    <orderdate>2014-01-21T11:31:38.790</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680194</transferorderid>
+    <orderdate>2014-01-21T11:29:29.810</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <transferorder>
+    <transferorderid>175680191</transferorderid>
+    <orderdate>2014-01-21T11:28:53.513</orderdate>
+    <statusid>3</statusid>
+    <tos>
+      <statusdesc>Order complete</statusdesc>
+      <ordertypeid>1</ordertypeid>
+      <tot>
+        <ordertypedesc>Auto Verification</ordertypedesc>
+        <tod/>
+      </tot>
+    </tos>
+  </transferorder>
+  <FoundAtLeastOnePendingOrder>False</FoundAtLeastOnePendingOrder>
+  <Command>TP_GETORDERSTATUSES</Command>
+  <APIType>API.NET</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>sjl0vwresell_t</Server>
+  <Site>eNom</Site>
+  <IsLockable/>
+  <IsRealTimeTLD/>
+  <TimeDifference>+0.00</TimeDifference>
+  <ExecTime>0.219</ExecTime>
+  <Done>true</Done>
+  <TrackingKey>76b6c221-56d7-4e8c-92df-a182d7d23faa</TrackingKey>
+  <RequestDateTime>6/20/2014 7:51:34 PM</RequestDateTime>
+  <debug/>
+</interface-response>

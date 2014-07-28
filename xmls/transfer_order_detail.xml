@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <transferorderdetail>
+    <transferorderdetailid>77507908</transferorderdetailid>
+    <sld>paas-loca</sld>
+    <tld>com</tld>
+    <lock>True</lock>
+    <renew>False</renew>
+    <domainpassword/>
+    <statusid>27</statusid>
+    <statusdesc>Canceled by customer</statusdesc>
+    <price>15.60</price>
+    <usecontacts>0</usecontacts>
+    <ordertype/>
+    <contacts>
+      <Registrant>None</Registrant>
+      <AuxBilling>None</AuxBilling>
+      <Tech>None</Tech>
+      <Admin>None</Admin>
+      <Billing>None</Billing>
+    </contacts>
+  </transferorderdetail>
+  <Command>TP_GETORDERDETAIL</Command>
+  <APIType>API.NET</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>sjl0vwresell_t1</Server>
+  <Site>eNom</Site>
+  <IsLockable/>
+  <IsRealTimeTLD/>
+  <TimeDifference>+0.00</TimeDifference>
+  <ExecTime>0.016</ExecTime>
+  <Done>true</Done>
+  <TrackingKey>1914864b-c996-4686-bb17-ba5110d83298</TrackingKey>
+  <RequestDateTime>6/20/2014 8:37:07 PM</RequestDateTime>
+  <debug/>
+</interface-response>

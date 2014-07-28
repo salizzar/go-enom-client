@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <GetDomainInfo>
+    <domainname sld="migracao-enom-01" tld="com" domainnameid="345293243">migracao-enom-01.com</domainname>
+    <multy-langSLD></multy-langSLD>
+    <status>
+      <expiration>1/9/2015 11:03:47 PM</expiration>
+      <deletebydate>1/9/2015 11:03:47 PM</deletebydate>
+      <deletetype/>
+      <restorable>True</restorable>
+      <renewbeforeexpiration/>
+      <registrar>eNom, Inc.</registrar>
+      <registrationstatus>Registered</registrationstatus>
+      <purchase-status>Paid</purchase-status>
+      <belongs-to party-id="{8167A5D2-70B3-44A8-B05E-B10DE9A9EA9B}">Locaweb</belongs-to>
+      <escrowhold/>
+      <escrowliftdate/>
+      <auctionhold>False</auctionhold>
+      <auctionliftdate/>
+    </status>
+    <ParkingEnabled>False</ParkingEnabled>
+    <services>
+      <entry name="dnsserver">
+        <enomDNS value="NA" isDotName="NO"/>
+        <service changable="1">1012</service>
+        <configuration changable="1" type="dns">
+          <dns>ns1.systemintegration.locaweb.com</dns>
+          <dns>ns2.systemintegration.locaweb.com</dns>
+        </configuration>
+      </entry>
+      <entry name="wpps">
+        <service changable="1">1123</service>
+      </entry>
+      <entry name="wbl">
+        <wbl>
+          <statusid><![CDATA[0]]></statusid>
+          <statusdescr><![CDATA[Available]]></statusdescr>
+        </wbl>
+      </entry>
+      <entry name="mobilizer">
+        <service changable="0">1117</service>
+        <mobilizer/>
+      </entry>
+      <entry name="raasettings">
+        <service changable="0"/>
+        <raasetting>
+          <fname><![CDATA[Marcelo]]></fname>
+          <lname><![CDATA[Correia Pinheiro]]></lname>
+          <emailaddress><![CDATA[marcelo.pinheiro@locaweb.com.br]]></emailaddress>
+          <verificationstatus><![CDATA[Suspended]]></verificationstatus>
+          <domainsuspended><![CDATA[1]]></domainsuspended>
+          <suspensiondate><![CDATA[2014-01-25T15:05:04.687]]></suspensiondate>
+          <statusexpdate><![CDATA[2014-01-24T15:03:51.427]]></statusexpdate>
+        </raasetting>
+      </entry>
+      <entry name="portalsettings">
+        <service changable="1"/>
+      </entry>
+    </services>
+  </GetDomainInfo>
+  <Command>GETDOMAININFO</Command>
+  <APIType>API</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>SJL0VWRESELL_T1</Server>
+  <Site>eNom</Site>
+  <IsLockable>True</IsLockable>
+  <IsRealTimeTLD>True</IsRealTimeTLD>
+  <TimeDifference>+08.00</TimeDifference>
+  <ExecTime>0.125</ExecTime>
+  <Done>true</Done>
+  <RequestDateTime>6/17/2014 6:49:30 PM</RequestDateTime>
+  <debug><![CDATA[]]></debug>
+</interface-response>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <OrderID>161657348</OrderID>
+  <DomainInfo>
+    <RegistryCreateDate>2014-06-22 03:12:56.067</RegistryCreateDate>
+    <RegistryExpDate>2015-06-22 03:12:56.067</RegistryExpDate>
+  </DomainInfo>
+  <TotalCharged>15.6</TotalCharged>
+  <RegistrantPartyID>{8167A5D2-70B3-44A8-B05E-B10DE9A9EA9B}</RegistrantPartyID>
+  <RRPCode>200</RRPCode>
+  <RRPText>Command completed successfully - 161657348</RRPText>
+  <Command>PURCHASE</Command>
+  <APIType>API</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>SJL0VWRESELL_T</Server>
+  <Site>eNom</Site>
+  <IsLockable>True</IsLockable>
+  <IsRealTimeTLD>True</IsRealTimeTLD>
+  <TimeDifference>+08.00</TimeDifference>
+  <ExecTime>2.078</ExecTime>
+  <Done>true</Done>
+  <RequestDateTime>6/21/2014 8:12:59 PM</RequestDateTime>
+  <debug><![CDATA[]]></debug>
+</interface-response>

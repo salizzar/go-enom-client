@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface-response>
+  <PendingVerification>True</PendingVerification>
+  <Command>CONTACTS</Command>
+  <APIType>API.NET</APIType>
+  <Language>eng</Language>
+  <ErrCount>0</ErrCount>
+  <ResponseCount>0</ResponseCount>
+  <MinPeriod>1</MinPeriod>
+  <MaxPeriod>10</MaxPeriod>
+  <Server>sjl0vwresell_t1</Server>
+  <Site>eNom</Site>
+  <IsLockable>True</IsLockable>
+  <IsRealTimeTLD>True</IsRealTimeTLD>
+  <TimeDifference>+8.00</TimeDifference>
+  <ExecTime>0.094</ExecTime>
+  <Done>true</Done>
+  <TrackingKey>e13f3e35-e112-4ed3-bef7-815c4c26e1d8</TrackingKey>
+  <RequestDateTime>6/22/2014 7:51:12 PM</RequestDateTime>
+  <debug/>
+</interface-response>
