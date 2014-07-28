@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"fmt"
 
-	"enom-client/response"
+	"github.com/salizzar/go-enom-client/response"
 )
 
 type Client interface {

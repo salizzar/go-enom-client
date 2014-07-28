@@ -3,7 +3,7 @@ package enom
 import (
 	"net/url"
 
-	"enom-client/response"
+	"github.com/salizzar/go-enom-client/response"
 )
 
 type Command struct {

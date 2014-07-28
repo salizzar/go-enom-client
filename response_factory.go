@@ -1,7 +1,7 @@
 package enom
 
 import (
-	"enom-client/response"
+	"github.com/salizzar/go-enom-client/response"
 )
 
 type ResponseFactory struct {
